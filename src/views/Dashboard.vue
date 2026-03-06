@@ -3,7 +3,7 @@
     <!-- 侧边栏 -->
     <div class="sidebar" :class="{ 'collapsed': isCollapse }">
       <div class="logo">
-        <h2>📚 91写作</h2>
+        <h2>📚 ai写作</h2>
       </div>
       
       <el-menu
