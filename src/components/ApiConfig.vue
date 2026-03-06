@@ -13,7 +13,7 @@
       <!-- 配置类型选择 -->
       <div class="config-type-selector">
         <el-radio-group v-model="configType" @change="onConfigTypeChange">
-          <el-radio-button label="official">🏢 91写作官方API</el-radio-button>
+          <el-radio-button label="official">🏢 写作官方API</el-radio-button>
           <el-radio-button label="custom">⚙️ 自定义API配置</el-radio-button>
         </el-radio-group>
       </div>
